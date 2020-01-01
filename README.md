@@ -3,7 +3,7 @@ Autoencoder and Model Based Elimination of features using Relevance and Redundan
 
 autoencoder_diagram.png: Illustration of the Autoencoder architecture
 
-overfitting_demo_data.xlsx: Data corresponding to the toy experiment of Section 5.2 explaining that overfitting is useful for feature selection
+overfitting_demo_data.xlsx: Data corresponding to the toy experiment of the Discussion Section (available on arXiv) explaining that overfitting is useful for feature selection
 
 dataset_links.txt: Text file containing links to download the 4 datasets
 
